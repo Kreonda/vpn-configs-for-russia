@@ -1,8 +1,8 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ WHITE LISTS | SNI-RU
 # profile-update-interval: 1
-# Date/Time: 2026-05-14 / 14:05 (Moscow)
+# Date/Time: 2026-05-14 / 15:30 (Moscow)
 # Количество: 2
 # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
 
-vless://db53d16d-825a-4989-a2ba-498b09d87d83@205.172.58.133:2040?flow=xtls-rprx-vision&fp=chrome&headertype=&host=&path=&pbk=Aevt4F-kvxeAC27LfB8r3KhkKAcrl6U2ew23p13kizU&security=reality&sid=&sni=stats.vk-portal.net&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5BSNI-RU%5D%20stats.vk-portal.net
 vless://4625bdd0-8af1-474f-9513-c2ca9e869a48@132.243.230.125:7771?encryption=none&type=grpc&security=reality&mode=gun&serviceName=splitter.wb.ru&fp=chrome&sni=splitter.wb.ru&pbk=yhUfTGgu5PYRlFqMnRZkxffH_aU05AFUToGI8_EKF28&sid=8248954896&spx=%2Fo7Aaf6fjwgbitolAe#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5BSNI-RU%5D%20splitter.wb.ru
+vless://4625bdd0-8af1-474f-9513-c2ca9e869a48@serv18.strettenvpn.com:7771?encryption=none&type=grpc&serviceName=splitter.wb.ru&mode=gun&security=reality&sni=splitter.wb.ru&fp=chrome&pbk=yhUfTGgu5PYRlFqMnRZkxffH_aU05AFUToGI8_EKF28&sid=8248954896&spx=%2Fo7Aaf6fjwgbitolAe#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5BSNI-RU%5D%20splitter.wb.ru
